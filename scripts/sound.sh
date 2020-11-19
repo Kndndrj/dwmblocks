@@ -1,10 +1,10 @@
 #!/bin/sh
 
 case $BLOCK_BUTTON in
-	1) alacritty -d 60 14 --position 2745 60 -t Popup -e pulsemixer ;;
+	1) alacritty -d 60 13 --position 1420 30 -t Popup -e pulsemixer ;;
 esac
 
-VOLUME_MUTE="\uf026x"
+VOLUME_MUTE="\uf026X"
 VOLUME_LOW="\uf026 "
 VOLUME_MID="\uf027 "
 VOLUME_HIGH="\uf028 "
