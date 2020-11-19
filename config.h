@@ -5,7 +5,7 @@ static const Block blocks[] = {
 	{"", "$HOME/Repos/dwmblocks/scripts/gpu.sh",	        		10,		17},
 	{"", "$HOME/Repos/dwmblocks/scripts/memory.sh",	        		10,		1},
 	{"", "$HOME/Repos/dwmblocks/scripts/disk.sh",	        		10,		9},
-	{"", "$HOME/Repos/dwmblocks/scripts/battery/battery_poly.sh 0.9 .0%",	10,		3},
+	{"", "$HOME/Repos/dwmblocks/scripts/battery/battery_poly.py 0.9 .0%",	10,		3},
 	{"", "$HOME/Repos/dwmblocks/scripts/sound.sh",	                	0,		10},
 	{"", "$HOME/Repos/dwmblocks/scripts/time.sh",				10,		2},
 };
